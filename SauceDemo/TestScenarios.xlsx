@@ -1,1 +1,7 @@
-
+| **ID** | **Scenario Description**               | **Priority** |
+| ------ | -------------------------------------- | ------------ |
+| SC001  | User logs in with valid credentials    | High         |
+| SC002  | User logs in with invalid credentials  | High         |
+| SC003  | User adds a single product to the cart | High         |
+| SC004  | User completes a checkout successfully | High         |
+| SC005  | User logs out from the inventory page  | Medium       |
