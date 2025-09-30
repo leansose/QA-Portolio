@@ -7,4 +7,9 @@ Here you will find:
 - Jira Screenshots - examples of the same scenarios documented and tracked inside a real agile platform (Jira)
 - PDF File
 
+Each scenario includes:
+- Scenario ID and description
+- Priority and execution status (Pass/Fail)
+- Traceability to bug reports where applicable
+
 Note: only the raw file could be up to date
