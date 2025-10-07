@@ -63,5 +63,14 @@ All user stories are written in **Behavior-Driven Development (BDD)** style for 
 
 **Example:**
 
+Feature: Logout
 
+Scenario: User logs out from the menu
+As a user, I want to log out from the application so that I can securely end my session.
+
+Acceptance Criteria:
+Given the user is on the menu page
+When the user clicks the "Logout" button
+Then the user should be redirected to the login page
+And the user session should be ended
 
