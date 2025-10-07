@@ -10,13 +10,13 @@ BDD, Gherkin format
     
 Exemple:
 Scenario outline: User logs out from the menu
-As a user, I want to log out from the application so that I can securely end my session
+  As a user, I want to log out from the application so that I can securely end my session
 
 Acceptance criteria:
-Given the user is on the menu page
-When the user clicks the "Logout" button
-Then the user should be redirected to the login page
-And the user session should be ended
+  Given the user is on the menu page
+  When the user clicks the "Logout" button
+  Then the user should be redirected to the login page
+  And the user session should be ended
 
 *SUB-TASKs*
 Status (Jira intern), Preconditions, Test Steps, Expected Result, Test Results (created field for test case status), Priority (Jira intern)
