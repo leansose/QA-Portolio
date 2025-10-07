@@ -9,7 +9,7 @@ It mirrors the same **test scenarios and test cases** previously documented in E
 
 | **Level** | **Jira Issue Type** | **Purpose** | **Example** |
 |------------|---------------------|--------------|--------------|
-| **EPIC** | Epic | Groups related user stories into larger product features | `EPIC: LOGIN`, `EPIC: CART & CHECKOUT` |
+| **EPIC** | Epic | Groups related user stories into larger product features | `EPIC: LOGIN` |
 | **Test Scenario** | User Story | Describes a functional flow or user behavior (written in BDD format) | `User logs in with valid credentials` |
 | **Test Case** | Sub-task | Represents a specific test derived from a scenario; includes steps, expected results, and test status | `TC001 – Login with valid username and password` |
 | **Bug / Defect** | Bug | Logged when a test case fails; linked to the corresponding user story | `BUG-001 – About button redirects outside the app` |
