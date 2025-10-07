@@ -11,3 +11,5 @@ This repository contains:
 - Bug Reports
 - Test Summary Report
 - Jira Workflow
+
+_note: later this project could also include test automation for some of test scenarios planned_
