@@ -10,3 +10,4 @@ This repository contains:
 - Test Cases
 - Bug Reports
 - Test Summary Report
+- Jira Workflow
