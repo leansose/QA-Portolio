@@ -16,31 +16,10 @@ It mirrors the same **test scenarios and test cases** previously documented in E
 
 ---
 
-## 🧱 Jira Board Columns (Workflow Status)
-
-| **Status** | |
-|-------------|-------------|
-| 🟦 **TO DO** | Item is planned for this sprint but not yet started |
-| 🟧 **IN PROGRESS** | Test scenario or case is currently being executed |
-| 🟩 **DONE** | Work or test case has been completed and result logged |
-
----
-
-## 🧪 Test Result Custom Field
+## ⚙️ Sub-task (Test Case) Fields
 
 Each **Sub-task (Test Case)** includes a custom field called **“Test Result”** to record the execution outcome.  
 This field helps distinguish between progress (*Done*) and result (*Passed/Failed/Blocked/Skipped*).
-
-| **Test Result** | **Meaning** |
-|------------------|-------------|
-| ✅ **Passed** | Expected behavior confirmed |
-| ❌ **Failed** | Behavior did not meet expectations (a Bug is created) |
-| ⚠️ **Blocked** | Test could not be executed due to dependency or defect |
-| ⏭️ **Skipped** | Test intentionally skipped or out of scope for this sprint |
-
----
-
-## ⚙️ Sub-task (Test Case) Fields
 
 Each test case is documented with the following attributes inside Jira:
 
@@ -51,6 +30,14 @@ Each test case is documented with the following attributes inside Jira:
 | **Expected Result** | System behavior if test passes |
 | **Test Result** | Custom field (Passed, Failed, Blocked, Skipped) |
 | **Priority** | Jira built-in field (High, Medium, Low) |
+
+
+| **Test Result** | **Meaning** |
+|------------------|-------------|
+| ✅ **Passed** | Expected behavior confirmed |
+| ❌ **Failed** | Behavior did not meet expectations (a Bug is created) |
+| ⚠️ **Blocked** | Test could not be executed due to dependency or defect |
+| ⏭️ **Skipped** | Test intentionally skipped or out of scope for this sprint |
 
 ---
 
@@ -76,3 +63,20 @@ _As a user, I want to log out from the application so that I can securely end my
 
 >**And** the user session should be ended
 
+---
+
+### 📊 Sprint Planning
+- Estimation via storie points **Planning Poker (Fibonacci 1, 2, 3, 5, 8, 13)**
+- Prioritize and move to sprint backlog
+
+---
+
+## 🧱 Jira Board Columns (Workflow Status)
+
+| **Status** | |
+|-------------|-------------|
+| 🟦 **TO DO** | Item is planned for this sprint but not yet started |
+| 🟧 **IN PROGRESS** | Test scenario or case is currently being executed |
+| 🟩 **DONE** | Work or test case has been completed and result logged |
+
+---
