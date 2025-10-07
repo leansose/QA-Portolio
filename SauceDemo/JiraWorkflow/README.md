@@ -45,23 +45,17 @@ Each test case is documented with the following attributes inside Jira:
 
 All user stories are written in **Behavior-Driven Development (BDD)** style for clarity and consistency.
 
-**Example:**
+**Example:**<br />
 
-**Feature**: Logout
+_Feature: Logout_<br />
+Scenario: User logs out from the menu;<br />
+As a user, I want to log out from the application so that I can securely end my session._
 
-**Scenario**: User logs out from the menu;
-
-_As a user, I want to log out from the application so that I can securely end my session._
-
-***Acceptance Criteria:***
-
->**Given** the user is on the menu page
-
->**When** the user clicks the "Logout" button
-
->**Then** the user should be redirected to the login page
-
->**And** the user session should be ended
+_Acceptance Criteria:_<br />
+>_**Given** the user is on the menu page.<br />
+>**When** the user clicks the "Logout" button.<br />
+>**Then** the user should be redirected to the login page.<br />
+>**And** the user session should be ended._<br />
 
 ---
 
