@@ -32,7 +32,7 @@ Each test case is documented with the following attributes inside Jira:
 | **Priority** | Jira built-in field (High, Medium, Low) |
 
 
-| **Test Result** | **Meaning** |
+| **Test Result** | |
 |------------------|-------------|
 | ✅ **Passed** | Expected behavior confirmed |
 | ❌ **Failed** | Behavior did not meet expectations (a Bug is created) |
