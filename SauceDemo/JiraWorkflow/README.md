@@ -18,13 +18,11 @@ It mirrors the same **test scenarios and test cases** previously documented in E
 
 ## 🧱 Jira Board Columns (Workflow Status)
 
-| **Status** | **Meaning** |
+| **Status** | |
 |-------------|-------------|
 | 🟦 **TO DO** | Item is planned for this sprint but not yet started |
 | 🟧 **IN PROGRESS** | Test scenario or case is currently being executed |
 | 🟩 **DONE** | Work or test case has been completed and result logged |
-
-> Note: The **“Done”** status means *execution is finished*, not necessarily that the test *passed*.
 
 ---
 
