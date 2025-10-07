@@ -51,7 +51,6 @@ Each test case is documented with the following attributes inside Jira:
 | **Preconditions** | System setup or data required before executing the test |
 | **Test Steps** | Detailed user actions to perform |
 | **Expected Result** | System behavior if test passes |
-| **Actual Result** | Observation during execution |
 | **Test Result** | Custom field (Passed, Failed, Blocked, Skipped) |
 | **Priority** | Jira built-in field (High, Medium, Low) |
 
