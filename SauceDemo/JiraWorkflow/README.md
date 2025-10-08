@@ -1,11 +1,11 @@
-# 🧭 Jira Workflow
+# Jira Workflow
 
 This folder contains screenshots and examples of how the **SauceDemo QA Project** is documented, tracked, and executed inside a real **Agile environment (Jira)**.  
 It mirrors the same **test scenarios and test cases** previously documented in Excel, now integrated into an agile board workflow.
 
 ---
 
-## 🧩 Project Structure in Jira
+## Project Structure in Jira
 
 | **Level** | **Jira Issue Type** | **Purpose** | **Example** |
 |------------|---------------------|--------------|--------------|
@@ -16,7 +16,7 @@ It mirrors the same **test scenarios and test cases** previously documented in E
 
 ---
 
-## ⚙️ Sub-task (Test Case) Fields
+## Sub-task (Test Case) Fields
 
 Each **Sub-task (Test Case)** includes a custom field called **“Test Result”** to record the execution outcome.  
 This field helps distinguish between progress (*Done*) and result (*Passed/Failed/Blocked/Skipped*).
@@ -41,7 +41,7 @@ Each test case is documented with the following attributes inside Jira:
 
 ---
 
-## 🧠 User Stories in BDD (Gherkin) Format
+## User Stories in BDD (Gherkin) Format
 
 All user stories are written in **Behavior-Driven Development (BDD)** style for clarity and consistency.
 
@@ -59,13 +59,13 @@ _Acceptance Criteria:_<br />
 
 ---
 
-### 📊 Sprint Planning
-- Estimation via storie points **Planning Poker (Fibonacci 1, 2, 3, 5, 8, 13)**
+## Sprint Planning
+- Estimation via story points **Planning Poker (Fibonacci 1, 2, 3, 5, 8, 13)**
 - Prioritize and move to sprint backlog
 
 ---
 
-## 🧱 Jira Board Columns (Workflow Status)
+## Jira Board Columns (Workflow Status)
 
 | **Status** | |
 |-------------|-------------|
