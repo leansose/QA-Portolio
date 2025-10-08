@@ -11,4 +11,4 @@ Each scenario includes:
 - Priority and execution status (Pass/Fail)
 - Traceability to bug reports where applicable
 
-Note: only the raw file could be up to date
+_note: only the raw file could be up to date_
