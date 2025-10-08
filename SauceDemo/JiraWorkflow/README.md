@@ -48,8 +48,8 @@ All user stories are written in **Behavior-Driven Development (BDD)** style for 
 **Example:**<br />
 
 _Feature: Logout_<br />
-Scenario: User logs out from the menu;<br />
-As a user, I want to log out from the application so that I can securely end my session._
+_Scenario: User logs out from the menu;_<br />
+_As a user, I want to log out from the application so that I can securely end my session._
 
 _Acceptance Criteria:_<br />
 >_**Given** the user is on the menu page.<br />
