@@ -10,5 +10,3 @@ Each scenario includes:
 - Detailed test cases with preconditions, steps, and expected results
 - Priority and execution status (Pass/Fail)
 - Traceability to bug reports where applicable
-
-_note: only the raw file could be up to date_
