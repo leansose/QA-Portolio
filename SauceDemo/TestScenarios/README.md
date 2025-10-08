@@ -10,5 +10,3 @@ Each scenario includes:
 - Scenario ID and description
 - Priority and execution status (Pass/Fail)
 - Traceability to bug reports where applicable
-
-Note: only the raw file could be up to date
