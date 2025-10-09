@@ -12,7 +12,5 @@ Category     | Label                                                            
 |              | Browser                                                                          | Mozilla Firefox, Google Chrome                                                   |
 | Bug tracking | Assigned to                                                                      | \-                                                                               |
 |              | Priority                                                                         | Low                                                                              |
-| Notes        | Video/Screenshot                                                                 | ![](file:///C:/Users/leand/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |  |  | ![](file:///C:/Users/leand/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |  |  |
-|              |
-|              | ![](file:///C:/Users/leand/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |                                                                                  |
-|              |
+| Notes        | Video/Screenshot                                                                 | BG001.mp4
+
