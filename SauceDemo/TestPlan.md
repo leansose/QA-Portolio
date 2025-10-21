@@ -20,6 +20,7 @@ Focus: Manaul and Automation testing
 - Manual functional testing
 - Positive and negative test cases
 - Cross-browser check (Chrome, Firefox)
+- Automation testing
 
 ## 4. Test Environment
 - URL: https://www.saucedemo.com/
@@ -37,4 +38,4 @@ Focus: Manaul and Automation testing
 - No backend bug tracking for actual fixes
 
 ## 7. Schedule
-Testing window: 3 days
+Testing window: 4 weeks
