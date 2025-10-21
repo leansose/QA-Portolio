@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 The purpose of this test plan is to define the testing approach for SauceDemo's e-commerce platform.  
-Focus: Functional UI testing.
+Focus: Manaul and Automation testing
 
 ## 2. Scope
 ### In Scope
