@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 The purpose of this test plan is to define the testing approach for SauceDemo's e-commerce platform.  
-Focus: Functional UI testing.
+Focus: Manaul and Automation testing
 
 ## 2. Scope
 ### In Scope
@@ -20,6 +20,7 @@ Focus: Functional UI testing.
 - Manual functional testing
 - Positive and negative test cases
 - Cross-browser check (Chrome, Firefox)
+- Automation testing
 
 ## 4. Test Environment
 - URL: https://www.saucedemo.com/
@@ -37,4 +38,4 @@ Focus: Functional UI testing.
 - No backend bug tracking for actual fixes
 
 ## 7. Schedule
-Testing window: 3 days
+Testing window: 4 weeks

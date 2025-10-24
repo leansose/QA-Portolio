@@ -65,7 +65,7 @@ _Acceptance Criteria:_<br />
 
 ---
 
-## Jira Board Columns (Workflow Status)
+## Jira Board Columns (Workflow Status, Kanban approach)
 
 | **Status** | |
 |-------------|-------------|
