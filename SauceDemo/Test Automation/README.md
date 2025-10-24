@@ -31,3 +31,11 @@ Additional tests will be added soon to expand coverage.
 - Modular approach: login, sorting, and checkout are separated for clarity
 - Explicit waits and sleeps ensure element visibility for demo reliability
 - Future refactors will improve reporting, data management, and cross-browser supports
+
+---
+
+## 💡 Future Improvements
+
+- Add conftest.py with browser fixtures for Pytest
+- Parameterize credentials and test data
+- Add negative test scenarios (invalid login, empty checkout, etc.)
