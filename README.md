@@ -1,9 +1,24 @@
-# QA-Portfolio
-Demo projects using Software Testing techniques 🛠💻📝🐞
+## SauceDemo Testing Project
 
-- Swag Labs (Sauce Demo) - 🛒🥼 clothing e-commerce demo website - https://www.saucedemo.com/
-  
-    - Test Plan, Test Scenarios and Test Cases
-    - Bug Report
-    - Jira Workflow
-    - Test Automation
+End-to-end manual and automation testing project focused on the Swag Labs - SauceDemo 🛒🥼 a clothing e-commerce demo platform - https://www.saucedemo.com/
+
+🛠💻📝🐞
+
+Scope:
+- Test planning and documentation
+- Exploratory and functional testing
+- Bug reporting and workflow simulation
+- Automation with Selenium + Python
+
+Tools:
+- Jira | Selenium | Python | Gherkin | GitHub
+
+Goal:
+- Simulate a real QA workflow from requirement analysis to defect tracking.
+
+
+
+
+
+
+
